@@ -1,6 +1,4 @@
-I am a **Software Engineer** passionate about **System Design, Real-Time Architectures, and Scalable Web Applications**. I specialize in building **high-performance backend systems**, working extensively with **WebSockets, WebRTC, and distributed systems**.
-
-I have experience designing and optimizing real-time applications, multiplayer game servers. My passion is improving **low-latency communication, backend scalability, and efficient data flows**.
+I am a **Software Engineer** passionate about **System Design, Real-Time Architectures, and Scalable Web Applications**. I specialize in building **high-performance backend systems**, working extensively with **WebSockets, WebRTC, and distributed systems**. My passion is improving **low-latency communication, backend scalability, and efficient data flows**.
 
 ### 🔧 Tech Stack
 - **Languages:** TypeScript, Go, JavaScript, C++
