@@ -5,6 +5,6 @@ I am a **Software Engineer** passionate about **System Design, Real-Time Archite
 - **Backend:** Node.js, Express, Go (Golang), WebSockets, gRPC
 - **Frontend:** React.js, Next.js, Tailwind CSS
 - **Databases:** PostgreSQL, MySQL, MongoDB, Redis
-- **DevOps & Cloud:** Docker, AWS (EC2, S3, Lambda), Azure, Nginx
+- **DevOps & Cloud:** Docker, AWS (EC2, S3, ASG), Azure, Nginx
 
 Always exploring new technologies and optimizing systems for performance. **Let’s build something amazing!**
